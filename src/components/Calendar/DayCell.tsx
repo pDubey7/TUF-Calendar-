@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 import { HolidayDot } from "./HolidayDot";
 import type { MonthGridDay } from "@/lib/dateUtils";
 import { isDateInRange, isRangeStart, isRangeEnd, format } from "@/lib/dateUtils";
-import { StickyNote as StickyNoteIcon, Plus } from "lucide-react";
+import { StickyNote as StickyNoteIcon } from "lucide-react";
 import { useCalendarStore } from "@/store/calendarStore";
 
 interface DayCellProps {

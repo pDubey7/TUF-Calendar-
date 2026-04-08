@@ -1,7 +1,7 @@
 "use client";
 
-import { useRef, useEffect, useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { useRef, useEffect} from "react";
+import { motion } from "framer-motion";
 import { gsap } from "gsap";
 import { Draggable } from "gsap/dist/Draggable";
 import { X, Check } from "lucide-react";
