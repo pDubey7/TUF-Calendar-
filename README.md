@@ -2,7 +2,7 @@
 
 A premium wall calendar component built with Next.js 14 (App Router) + TypeScript. Client-side only — no backend, no API routes, no database.
 
-![Demo GIF Placeholder](./Screenshot from 2026-04-09 05-15-07.png)
+![Demo](./Screenshot-from-2026-04-09.png)
 
 ## 🚀 Setup
 
